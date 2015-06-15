@@ -1,0 +1,8 @@
+Package: shinyMosaic
+Title: Interactive Apps for Project MOSAIC
+Version: 0.0.0.9000
+Authors@R: person("Daniel", "Kaplan", , "kaplan@macalester.edu", role = c("aut", "cre"))
+Description: A collection of interactive apps for teaching statistics, data science, and calculus.  Typically, each app relates to one concept in statistics or calculus, e.g. coverage by confidence intervals.
+Depends: R (>= 3.1.2)
+License: What license is it under?
+LazyData: true
